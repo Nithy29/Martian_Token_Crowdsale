@@ -77,5 +77,5 @@ We will be creating a fungible token called KaseiCoin. KaseiCoin will be a fungi
 
 <video src="https://gitlab.com/user/project/-/blob/main/video/video-1.mp4" data-canonical-src="https://gitlab.com/user/project/-/blob/main/video/video-1.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 
-
+    [Review_Coin.webm](https://user-images.githubusercontent.com/98414364/180316917-5e4051bf-cd25-4e29-bcd0-4cf9ea2049ca.webm)
 
