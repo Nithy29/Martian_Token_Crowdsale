@@ -7,8 +7,8 @@
 - [Background](https://github.com/Nithy29/Martian_Token_Crowdsale#background) 
 - [Overview of the project](https://github.com/Nithy29/Martian_Token_Crowdsale#overview-of-the-project) 
 - [Project Notes](https://github.com/Nithy29/Martian_Token_Crowdsale#Project-Notes) 
-- [Work Files](https://github.com/Nithy29/Martian_Token_Crowdsale#Work-Files) 
-- [Instructions Followed](https://github.com/Nithy29/Martian_Token_Crowdsale#Instructions-Followed)
+- [Work Files](https://github.com/Nithy29/Martian_Token_Crowdsale#work-files) 
+- [Instructions Followed](https://github.com/Nithy29/Martian_Token_Crowdsale#instructions-followed)
 - [Software version control](https://github.com/Nithy29/Martian_Token_Crowdsale#software-version-control)
     - [GitHub Work](https://github.com/Nithy29/Martian_Token_Crowdsale#gitHub_works)
     - [Installation Notes](https://github.com/Nithy29/Martian_Token_Crowdsale#how-to-install)
@@ -35,7 +35,7 @@ We will be creating a fungible token called KaseiCoin. KaseiCoin will be a fungi
 
 ## Work Files
 
-[KaseiCoin.sol](./Starter_Code/KaseiCoin.sol)
+[KaseiCoin.sol](./Starter_Code/KaseiCoin.sol)</br>
 [KaseiCoinCrowdsale.sol](./Starter_Code/KaseiCoinCrowdsale.com)
 
 
@@ -105,7 +105,7 @@ https://user-images.githubusercontent.com/98414364/180322330-89f2b85a-e6e9-4949-
 
 
    
-   
+---   
 ## Software Version
 
 [Remix IDE](https://remix.ethereum.org) - Ethereum IDE is an open source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. Here, Remix is used for the entire journey of contract development including deployment and testing.
