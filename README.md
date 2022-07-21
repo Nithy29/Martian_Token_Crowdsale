@@ -66,16 +66,19 @@ We will be creating a fungible token called KaseiCoin. KaseiCoin will be a fungi
     </tr>
     </table>
 
+5. Deploying the Crowdsale contract - Video
+    https://user-images.githubusercontent.com/98414364/180317507-73599446-0231-4366-b441-496835830083.mp4
+
+6. Testing Functionality
+    https://user-images.githubusercontent.com/98414364/180318451-d1f15ef1-fe8e-4c46-9b70-9ccd34895d6a.mp4
+
+7. Review of Test
+    https://user-images.githubusercontent.com/98414364/180318530-dde1ecc2-b968-48db-a916-273325bb9c98.mp4
+
+8. Importing of Coin
+    Uploading Import_KaseiCoins_into_wallet.mp4…
+
+9. Optional work
 
 
-
-[cfxcv](https://github.com/Nithy29/Martian_Token_Crowdsale/blob/main/Evaluation/Deploy_crowdsale.mov)
-
-
-<video src='https://github.com/Nithy29/Martian_Token_Crowdsale/blob/main/Evaluation/Deploy_crowdsale.mov' width=180/>
-
-
-<video src="https://gitlab.com/user/project/-/blob/main/video/video-1.mp4" data-canonical-src="https://gitlab.com/user/project/-/blob/main/video/video-1.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-
-    [Review_Coin.webm](https://user-images.githubusercontent.com/98414364/180316917-5e4051bf-cd25-4e29-bcd0-4cf9ea2049ca.webm)
 
