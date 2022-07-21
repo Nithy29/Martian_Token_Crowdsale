@@ -70,3 +70,10 @@ We will be creating a fungible token called KaseiCoin. KaseiCoin will be a fungi
 
 
 [cfxcv](https://github.com/Nithy29/Martian_Token_Crowdsale/blob/main/Evaluation/Deploy_crowdsale.mov)
+
+
+<video src='https://github.com/Nithy29/Martian_Token_Crowdsale/blob/main/Evaluation/Deploy_crowdsale.mov' width=180/>
+
+
+
+
