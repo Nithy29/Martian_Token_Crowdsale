@@ -433,9 +433,9 @@
 	},
 	"sources": {
 		"KaseiCoin.sol": {
-			"keccak256": "0x384b00e5fa50ea93b9d22715d49b4550faadb32060bd35fb2a1c42e9f0545869",
+			"keccak256": "0x7e5855507be52a049a5b0eb0090d8fd1de1278da450d75c0a2736587cc29216f",
 			"urls": [
-				"bzzr://501dc9af8a233f11543bc88e536cab409ebbb2bf46a838732b6a3136021f9da8"
+				"bzzr://70fa5bae5fff37fa30a1ed430160ab262f8a695919a30e0b1ddacc8b9b0beedf"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/GSN/Context.sol": {
