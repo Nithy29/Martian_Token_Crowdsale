@@ -7,12 +7,11 @@
 - [Background](https://github.com/Nithy29/Martian_Token_Crowdsale#background) 
 - [Overview of the project](https://github.com/Nithy29/Martian_Token_Crowdsale#overview-of-the-project) 
 - [Project Notes](https://github.com/Nithy29/Martian_Token_Crowdsale#Project-Notes) 
-- [Work Files](https://github.com/Nithy29/Martian_Token_Crowdsale#Work-Files) 
-- [Instructions Followed](https://github.com/Nithy29/Martian_Token_Crowdsale#Instructions-Followed)
+- [Work Files](https://github.com/Nithy29/Martian_Token_Crowdsale#work-files) 
+- [Instructions Followed](https://github.com/Nithy29/Martian_Token_Crowdsale#instructions-followed)
 - [Software version control](https://github.com/Nithy29/Martian_Token_Crowdsale#software-version-control)
     - [Work with GitHub](https://github.com/Nithy29/Martian_Token_Crowdsale#work-with-github)
     - [How to install](https://github.com/Nithy29/Martian_Token_Crowdsale#how-to-install)
-- [Helps recruiters](https://github.com/Nithy29/Martian_Token_Crowdsale#helps-recruiters)
 - [License](https://github.com/Nithy29/Martian_Token_Crowdsale/blob/main/LICENSE)
 
 
