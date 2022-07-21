@@ -27,10 +27,10 @@ We will be creating a fungible token called KaseiCoin. KaseiCoin will be a fungi
 
 ## Project Notes
 
-    - The starter code files have `pragma solidity ^0.5.0' as per project instructions. But one io the OpenZeppelin is at 0.5.5. 
-      The file is https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/utils/Address.sol. The contracts are compuiled at 0.5.5
-    - Ganache is used as local block chain testing network
-    - MetaMask is used as the local wallet connected to Ganache
+   - The starter code files have `pragma solidity ^0.5.0' as per project instructions. But one io the OpenZeppelin is at 0.5.5. 
+     The file is https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/utils/Address.sol. The contracts are compuiled at 0.5.5
+   - Ganache is used as local block chain testing network
+   - MetaMask is used as the local wallet connected to Ganache
 
 
 ## Work Files
