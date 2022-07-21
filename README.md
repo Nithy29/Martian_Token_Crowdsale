@@ -6,8 +6,9 @@
 ## Table of content
 - [Background](https://github.com/Nithy29/Martian_Token_Crowdsale#background) 
 - [Overview of the project](https://github.com/Nithy29/Martian_Token_Crowdsale#overview-of-the-project) 
+- [Project Notes](https://github.com/Nithy29/Martian_Token_Crowdsale#Project-Notes) 
 - [Work Files](https://github.com/Nithy29/Martian_Token_Crowdsale#Work-Files) 
-- [Project steps](https://github.com/Nithy29/Martian_Token_Crowdsale#project-steps)
+- [Instructions Followed](https://github.com/Nithy29/Martian_Token_Crowdsale#Instructions-Followed)
 - [Software version control](https://github.com/Nithy29/Martian_Token_Crowdsale#software-version-control)
     - [Work with GitHub](https://github.com/Nithy29/Martian_Token_Crowdsale#work-with-github)
     - [How to install](https://github.com/Nithy29/Martian_Token_Crowdsale#how-to-install)
@@ -24,7 +25,7 @@ After waiting for years and passing several tests, the Martian Aerospace Agency 
 
 We will be creating a fungible token called KaseiCoin. KaseiCoin will be a fungible token that’s ERC-20 compliant. I’ll launch a crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
 
-## Project Note
+## Project Notes
 
     - The starter code files have `pragma solidity ^0.5.0' as per project instructions. But one io the OpenZeppelin is at 0.5.5. 
       The file is https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/utils/Address.sol. The contracts are compuiled at 0.5.5
@@ -105,5 +106,38 @@ https://user-images.githubusercontent.com/98414364/180322330-89f2b85a-e6e9-4949-
 
    
    
-    
+## Software Version
+
+[Remix IDE](https://remix.ethereum.org) - Ethereum IDE is an open source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. Here, Remix is used for the entire journey of contract development including deployment and testing.
+
+[MetaMask](https://metamask.io/) allows users to store and manage account keys, broadcast transactions, send and receive Ethereum-based cryptocurrencies and tokens, and securely connect to decentralized applications through a compatible web browser or the mobile app's built-in browser. 
+
+[Ganache](https://www.trufflesuite.com/ganache) allows us to quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates. 
+
+
+### How to install
+
+8 Creat a folder call ERC20 on your computer
+* Save remote repo from GitHub to the folder ERC20: 
+* in Terninal type:
+
+```
+cd C:\ERC20
+
+git clone https://github.com/Nithy29/Martian_Token_Crowdsale.git
+```
+
+now you can find the folder ERC20
+
+### Setup MetMask
+  * Use crome extension to download and install MetaMask
+  * Install Ganache on your local computer
+  * Add a network on your MetaMask with Ganache configuration
+    - you will need RPC Server URL, Usualy - HTTP://127.0.0.1:7545
+    - Chain ID, Usually 1337
+    - Currency Symbol - USD in this case. You can choose what ever you want
+
+
+📔 Contact me: 📩 sarvanvel@gmail.com
+
     
