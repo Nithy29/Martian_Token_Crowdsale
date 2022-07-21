@@ -10,9 +10,9 @@
 - [Work Files](https://github.com/Nithy29/Martian_Token_Crowdsale#Work-Files) 
 - [Instructions Followed](https://github.com/Nithy29/Martian_Token_Crowdsale#Instructions-Followed)
 - [Software version control](https://github.com/Nithy29/Martian_Token_Crowdsale#software-version-control)
-    - [Work with GitHub](https://github.com/Nithy29/Martian_Token_Crowdsale#work-with-github)
-    - [How to install](https://github.com/Nithy29/Martian_Token_Crowdsale#how-to-install)
-- [Helps recruiters](https://github.com/Nithy29/Martian_Token_Crowdsale#helps-recruiters)
+    - [GitHub Work](https://github.com/Nithy29/Martian_Token_Crowdsale#gitHub_works)
+    - [Installation Notes](https://github.com/Nithy29/Martian_Token_Crowdsale#how-to-install)
+    - [Setup Notes](https://github.com/Nithy29/Martian_Token_Crowdsale#setup-notes)
 - [License](https://github.com/Nithy29/Martian_Token_Crowdsale/blob/main/LICENSE)
 
 
@@ -33,7 +33,7 @@ We will be creating a fungible token called KaseiCoin. KaseiCoin will be a fungi
     - MetaMask is used as the local wallet connected to Ganache
 
 
-## Works Files
+## Work Files
 
 [KaseiCoin.sol](./Starter_Code/KaseiCoin.sol)
 [KaseiCoinCrowdsale.sol](./Starter_Code/KaseiCoinCrowdsale.com)
@@ -115,7 +115,14 @@ https://user-images.githubusercontent.com/98414364/180322330-89f2b85a-e6e9-4949-
 [Ganache](https://www.trufflesuite.com/ganache) allows us to quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates. 
 
 
-### How to install
+### GitHub Works
+ - Initial Repository created on GitHub
+ - Files were committed using GitHub Desktop
+ - ReadME file is created using VS-Code
+ - Videos created on Windows 10 using XBOX Capture
+
+
+### Installation Notes
 
 8 Creat a folder call ERC20 on your computer
 * Save remote repo from GitHub to the folder ERC20: 
@@ -129,7 +136,7 @@ git clone https://github.com/Nithy29/Martian_Token_Crowdsale.git
 
 now you can find the folder ERC20
 
-### Setup MetMask
+### Setup Notes
   * Use crome extension to download and install MetaMask
   * Install Ganache on your local computer
   * Add a network on your MetaMask with Ganache configuration
