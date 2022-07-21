@@ -65,8 +65,45 @@ We will be creating a fungible token called KaseiCoin. KaseiCoin will be a fungi
         <td><img width="400" height=240  src="./Evaluation/Deployed_Contracts.png">  </td>
     </tr>
     </table>
+    
+
+5. Deploying the Crowdsale contract - Video</br>
+
+https://user-images.githubusercontent.com/98414364/180317507-73599446-0231-4366-b441-496835830083.mp4
 
 
+6. Testing Functionality</br>
+
+https://user-images.githubusercontent.com/98414364/180318451-d1f15ef1-fe8e-4c46-9b70-9ccd34895d6a.mp4
 
 
-[cfxcv](https://github.com/Nithy29/Martian_Token_Crowdsale/blob/main/Evaluation/Deploy_crowdsale.mp4)
+7. Review of Test
+
+https://user-images.githubusercontent.com/98414364/180318530-dde1ecc2-b968-48db-a916-273325bb9c98.mp4
+
+
+8. Importing of Coin</br>
+
+https://user-images.githubusercontent.com/98414364/180319084-8ed5aaa5-0e64-4585-ad72-8958ac743904.mp4
+
+
+9. Optional work</br>
+   - Deployment
+
+https://user-images.githubusercontent.com/98414364/180321346-a7980c0c-5821-4eb3-9a01-b7a248e936c7.mp4
+
+       
+   - Transacting on Optional Work
+
+https://user-images.githubusercontent.com/98414364/180321876-36dd72dc-8dfe-44ff-8d0b-13b93ee78fdf.mp4
+
+
+   - Transfer Coin
+   
+https://user-images.githubusercontent.com/98414364/180322330-89f2b85a-e6e9-4949-a9da-00dbbf9b4c8a.mp4
+
+
+   
+   
+    
+    
