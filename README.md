@@ -9,9 +9,9 @@
 - [Project Notes](https://github.com/Nithy29/Martian_Token_Crowdsale#Project-Notes) 
 - [Work Files](https://github.com/Nithy29/Martian_Token_Crowdsale#work-files) 
 - [Instructions Followed](https://github.com/Nithy29/Martian_Token_Crowdsale#instructions-followed)
-- [Software version control](https://github.com/Nithy29/Martian_Token_Crowdsale#software-version-control)
-    - [GitHub Work](https://github.com/Nithy29/Martian_Token_Crowdsale#gitHub_works)
-    - [Installation Notes](https://github.com/Nithy29/Martian_Token_Crowdsale#how-to-install)
+- [Software version control](https://github.com/Nithy29/Martian_Token_Crowdsale#software-version)
+    - [GitHub Work](https://github.com/Nithy29/Martian_Token_Crowdsale#github-works)
+    - [Installation Notes](https://github.com/Nithy29/Martian_Token_Crowdsale#installation-notes)
     - [Setup Notes](https://github.com/Nithy29/Martian_Token_Crowdsale#setup-notes)
 - [License](https://github.com/Nithy29/Martian_Token_Crowdsale/blob/main/LICENSE)
 
@@ -135,6 +135,7 @@ git clone https://github.com/Nithy29/Martian_Token_Crowdsale.git
 ```
 
 now you can find the folder ERC20
+
 
 ### Setup Notes
   * Use crome extension to download and install MetaMask
